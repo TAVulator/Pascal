@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="task12.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="18" Y="15"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="task12.pas"/>
+        <Caret Line="18" Column="78"/>
+      </Position1>
+      <Position2>
+        <Filename Value="task12.pas"/>
+        <Caret Line="4" Column="15"/>
+      </Position2>
+      <Position3>
+        <Filename Value="task12.pas"/>
+        <Caret Line="15" Column="24"/>
+      </Position3>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="5">
+      <Item1>
+        <Expression Value="i"/>
+      </Item1>
+      <Item2>
+        <Expression Value="j"/>
+      </Item2>
+      <Item3>
+        <Expression Value="a"/>
+      </Item3>
+      <Item4>
+        <Expression Value="n"/>
+      </Item4>
+      <Item5>
+        <Expression Value="Result"/>
+      </Item5>
+    </Watches>
+  </Debugging>
+</CONFIG>
